@@ -1,6 +1,7 @@
 {
   "name": "app-example-fastify",
   "version": "1.0.0",
+  "description": "Пример Fastify для Timeweb Cloud",
   "main": "app.js",
   "scripts": {
     "start": "fastify start -l info app.js",
